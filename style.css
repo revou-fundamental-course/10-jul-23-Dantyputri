@@ -1,0 +1,53 @@
+body{
+    background-color: blanchedalmond;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.card{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: inset 5px 5px 12px #fff, 5px 5px 12px rgb(0,0,0,0.16);
+    padding: 20px;
+
+}
+h1{
+    text-align: center;
+}
+.display{
+    background-color: burlywood;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: inset 2px 3px 11px rgb(0,0,0,0.16), 5px 5px 12px #d1d1d1;
+}
+.fungsi{
+    font-size: large;
+}
+
+.prediksi{
+    font-size: large;
+}
+
+.total{
+    background-color: burlywood;
+    text-align: center;
+    font-size: x-large;
+    border-radius: 20px;
+    box-shadow: inset 2px 3px 11px rgb(0,0,0,0.16), 5px 5px 12px #d1d1d1;
+
+}
+.footer{
+    text-align: center;
+}
+.button{
+    padding: 8px 15px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.button-primary{
+    background-color: chocolate;
+    color: #fff;
+}
+.button-primary:hover{
+    background-color: rgb(5, 139, 241);
+}
